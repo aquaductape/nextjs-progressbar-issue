@@ -27,7 +27,6 @@ export default function Home() {
       ) : (
         <Secondary></Secondary>
       )}
-      <button onClick={onNext}>Next</button>
     </div>
   );
 }

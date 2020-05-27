@@ -12,6 +12,7 @@ export default function Primary({ onNext }) {
         aliquam dignissimos deserunt? Reprehenderit, distinctio odit qui quam
         saepe tenetur ut quo a ab.
       </p>
+      <button onClick={onNext}>Next</button>
     </div>
   );
 }
